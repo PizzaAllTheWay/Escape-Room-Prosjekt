@@ -1,0 +1,2 @@
+# Escape-Room-Prosjekt
+Prosjektet for å utvikle koden av et flytbar «escape room». Hovedmodul koden gir bruker all det viktigste informasjon for å løse spilet. Samtidig holder hovedenhet kommunikasjon til Ubidots. Spillene har sine egne enheter i seg som kommuniserer individuelt til Ubidots og får ordrer fra hovedenheten når det er demres tur å være på for å løses. Koden er designet til å bli lett skalerbar. På slik måte kan det finnes flere oppgaver i escape room, gjør oppgavene lettere eller se progresjon av alt på en enhet, på en tjener. 
