@@ -93,9 +93,9 @@ unsigned long timer;        // Definering av timer variabel
 int GameDeviceLenght = sizeof(GameRI)/sizeof(GameRI[0]); 
 
 // Definering av UBIDOTS tilkoblingsverdier
-const char *UBIDOTS_TOKEN = "BBFF-0OuPu7XtnaQxC8Dm4RGzKggbtQuaXS";  // UBIDOTS token
-const char *WIFI_SSID = "ChoudhryAirlines";                         // Wi-Fi SSID
-const char *WIFI_PASS = "TalhaHarStorKUK";                          // Wi-Fi password
+const char *UBIDOTS_TOKEN = "TOKEN";  // UBIDOTS token
+const char *WIFI_SSID = "NAME";                         // Wi-Fi SSID
+const char *WIFI_PASS = "PASSWORD";                          // Wi-Fi password
 const char *DEVICE_LABEL = "hoved-esp32";                           // Hoved Device label
 const char *VARIABLE_LABEL = "spill-av-eller-pa";                   // Label for spill av og på 
 
