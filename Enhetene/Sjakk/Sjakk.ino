@@ -14,8 +14,8 @@ char requestTimeoutArray[] = {}; /* Time ESP32 will sleep for (in seconds) */
 int requestTimeout = 10;
 
 // WiFi variables
-const char *WIFI_SSID = "ChoudhryAirlines2"; // Wi-Fi name
-const char *WIFI_PASS = "TalhaHarStorKUK"; // Wi-Fi password
+const char *WIFI_SSID = "NAME"; // Wi-Fi name
+const char *WIFI_PASS = "PASSWORD"; // Wi-Fi password
 
 // Ubidots conection variab'1les
 const char *UBIDOTS_TOKEN = "BBFF-0OuPu7XtnaQxC8Dm4RGzKggbtQuaXS"; // Put here your Ubidots TOKEN
